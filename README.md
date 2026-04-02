@@ -101,7 +101,7 @@ Scenarios:
 
 ##  References
 
-- van der Maas, H. L. J. et al. (2025). *The Statistical Physics of Psychological Networks: Zero Matters*.  
+- van der Maas, H. L., Borsboom, D., & Waldorp, L. (2026). *The statistical physics of psychological networks: Zero matters*. Psychological Review.
 - Original implementation:  
   https://github.com/hvdmaas/zeromatters/tree/main
 
