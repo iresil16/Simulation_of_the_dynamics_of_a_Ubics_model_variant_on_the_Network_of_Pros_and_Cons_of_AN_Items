@@ -1,6 +1,6 @@
 # Ubics Variant Simulation on a Network of Pros & Cons of AN Items
 
-This repository contains a NetLogo implementation of a **Ubics model variant** applied to a network of pros and cons of AN items. 
+This repository contains a NetLogo implementation of a **Ubics model variant** applied to a Network of Pros and Cons of AN Items. 
 
 The code was developed starting from the original implementation available at https://github.com/hvdmaas/zeromatters/tree/main. It has been revisited and extended with additional parts that can be identified in the code by searching for the sections labeled `addition_i`, where `i` denotes the different additions introduced in this variant. These extensions allow the exploration of additional scenarios and emergent behaviors on an empirical network structure.
 
