@@ -24,9 +24,8 @@ The dynamics are governed by the Metropolis algorithm.
 The implemented model is a variant of the Ubics model, characterized by the following Hamiltonian:
 
 \[
-H(x) = - \sum_{\langle i,j \rangle} \sigma \, w_{ij} x_i x_j \;-\; \sum_i \tau x_i \;-\; \sum_{\langle i,j \rangle} \alpha (x_i^2 - 1)(x_j^2 - 1)
+H(\mathbf{x}) = - \sum_{\langle i,j \rangle} \sigma \omega_{ij} x_i x_j - \sum_i \tau x_i - \sum_{\langle i,j \rangle} \alpha (x_i^2 - 1)\alpha (x_j^2 - 1).
 \]
-
 
 
 - **σ (sigma)**: global coupling parameter  
