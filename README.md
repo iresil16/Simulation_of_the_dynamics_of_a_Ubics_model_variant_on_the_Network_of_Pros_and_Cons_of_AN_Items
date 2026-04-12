@@ -1,4 +1,4 @@
-# Ubics Variant Simulation on a Network of Pros & Cons of AN Items
+# Simulation of the dynamics of a Ubics Model Variant on the Network of Pros and Cons of AN Items
 
 This repository contains a NetLogo implementation of a **Ubics model variant** applied to a Network of Pros and Cons of AN Items. The code is at the following link: https://github.com/iresil16/Simulation_of_the_dynamics_of_a_Ubics_model_variant_on_the_Network_of_Pros_and_Cons_of_AN_Items/tree/main
 
